@@ -3,7 +3,7 @@ Today I Learned - inspired by [jbranchaud](http://github.com/jbranchaud/til) - [
 
 ## Categories
 
-* [iOS](#ios_objective-c)
+* [iOS](#ios-objective-c)
 
 ### iOS, Objective-C
 * [Don't Append `nil` NSStrings](obj-c/dont-append-nil-strings.md)
