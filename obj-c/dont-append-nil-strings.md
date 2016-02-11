@@ -1,4 +1,4 @@
-# Don't Append `nil` to NSString
+# Don't Append `nil` NSStrings
 
 I've written code a few too many times where this happens:
 
